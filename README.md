@@ -1,5 +1,11 @@
 # StreamerBotToSpeakerBotCombinedTTS
 
+## CAUTION
+
+The action triggers are not setup correctly here, because I don't know what people want.
+It currently triggers FOR EVERY MESSAGE send in the linked chat.
+Change that when activating it. You can just close Speaker.bot before configuring it as it should be disabled then.
+
 ## Setup
 
 - Install `Streamer.bot` and `Speaker.bot` as stated on their website
@@ -14,7 +20,7 @@
       - `SaveSpeakerBotTtsAudioToFileDirectoryPath`: Directry where you pointed `Speaker.bot` with the `'Save TTS audio to file'` to.
       - `PathToSpeakerBotVoicealiasesDatFile`: File in the `Speaker.bot` data directory called `voicealiases.dat`.
       - `PathToSoundEffectsFolder`: Directory where your local sound effects live.
-  
+
 ## What does it support
 
 ### Multiple Speaker.bot voices
