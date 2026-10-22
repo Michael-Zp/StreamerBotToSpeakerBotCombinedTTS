@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StreamerBotToSpeakerBotConsoleTest/StreamerBotToSpeakerBotConsoleTest.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+</Solution>

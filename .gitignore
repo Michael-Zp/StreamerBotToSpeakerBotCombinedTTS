@@ -426,3 +426,14 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Speaker.bot zip files
+Speaker.bot-x64-0.1.7.zip
+Speaker.bot-x64-0.1.7
+
+# Streamer.bot zip file
+Streamer.bot-x64-1.0.7.zip
+Streamer.bot-x64-1.0.7
+
+# Saved TTS as they are mostly temporary
+SavedTTS
